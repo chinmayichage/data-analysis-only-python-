@@ -22,6 +22,4 @@ The notebooks are structured to reflect a real-world data science workflow, from
   - Matplotlib  
   - Seaborn  
   - Scikit-learn  
-- **Environment:** Jupyter Notebook  
-   git clone https://github.com/YOUR_USERNAME/data-scientist-project.git
-
+- **Environment:** Jupyter Notebook
